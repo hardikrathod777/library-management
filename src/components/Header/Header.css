@@ -1,0 +1,26 @@
+a{
+    text-decoration: none !important;
+    color: black !important;
+    font-size: 20px;
+    margin-left: 15px;
+    font-weight: 500;
+}
+.navbar-brand{
+    font-size: 26px !important;
+    color: #1E8AD2 !important;
+}
+
+.l{
+    font-size: 26px;
+    color: #1E8AD2;
+}
+.me-auto{
+    margin-left: 1000px;
+}
+a:hover{
+    color: #1E8AD2 !important;
+}
+.bg-body-tertiary{
+    position: relative;
+    z-index: 99;
+}
